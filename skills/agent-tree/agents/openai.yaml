@@ -1,0 +1,6 @@
+interface:
+  display_name: "Agent Tree"
+  short_description: "Delegate useful work with a small, focused team"
+  default_prompt: "Use $agent-tree to complete this task, delegating only independently useful work and integrating the results."
+policy:
+  allow_implicit_invocation: true
